@@ -1,0 +1,12 @@
+{
+  "engines": [
+    {
+      "model": "1.4_TDCi_Euro4",
+      "idle_consumption_hourly": 0.5,
+      "peak_efficiency_rpm_range": [1750, 2500],
+      "drag_coefficient": 0.32,
+      "weight_kg": 1100
+    }
+  ]
+}
+
