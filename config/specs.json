@@ -1,0 +1,10 @@
+{
+  "engine_profile": {
+    "model": "1.4_TDCi_Euro4",
+    "thermal_efficiency": 0.38,
+    "idle_consumption_per_hour": 0.6,
+    "aerodynamic_drag": 0.32,
+    "optimal_gear_ratios": [3.54, 1.91, 1.21, 0.86, 0.67]
+  }
+}
+
