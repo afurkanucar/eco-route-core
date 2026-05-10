@@ -1,4 +1,13 @@
-# 🌍 Eco-Route Core: Intelligent Navigation Engine
+# 🌍 Eco-Route Core: Multi-Variable Navigation Engine
+
+## 📌 Technical Architecture
+An enterprise-grade routing service that prioritizes thermal efficiency over distance. Unlike standard APIs, this engine processes real-time telemetry and environmental data to minimize carbon footprint and fuel costs.
+
+## 🚀 Key Engineering Highlights
+- **Engine-Specific Profiling:** Optimized for 1.4 TDCi architectures, factoring in torque curves and specific fuel maps.
+- **Environmental Processing:** Integrated wind-drag coefficients and altitude variance into the core routing logic.
+- **Production Ready:** Fully Dockerized with automated CI/CD pipelines via GitHub Actions.
+- **Scalability:** Built with a modular service-oriented architecture (SoA).
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
