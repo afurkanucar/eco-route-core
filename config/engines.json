@@ -1,12 +1,11 @@
 {
-  "engines": [
-    {
-      "model": "1.4_TDCi_Euro4",
-      "idle_consumption_hourly": 0.5,
-      "peak_efficiency_rpm_range": [1750, 2500],
-      "drag_coefficient": 0.32,
-      "weight_kg": 1100
+  "supported_engines": {
+    "ford_1.4_tdci_euro4": {
+      "base_consumption_l_100km": 4.2,
+      "optimal_torque_rpm": 1750,
+      "idle_consumption_hourly": 0.45,
+      "drag_coefficient": 0.31,
+      "no_o2_sensor_legacy_mode": true
     }
-  ]
+  }
 }
-
